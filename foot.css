@@ -32,6 +32,8 @@ nav{
 body{
   font-size: 28px;
   text-align: center;
+  color: #000;
+  background-image:url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS9iURlAkd3quXhPy6pPi5xg46ohTSaUa6yshcNddbNdCAUPDJ2&s") ;
 }
 #football{
     display: flexbox;
