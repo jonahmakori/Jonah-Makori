@@ -32,18 +32,23 @@ nav{
 body{
   font-size: 28px;
   text-align: center;
-  color: #000;
-  background-image:url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS9iURlAkd3quXhPy6pPi5xg46ohTSaUa6yshcNddbNdCAUPDJ2&s") ;
+  background-image:url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQeQZeH-OojNbvPwO7x4tqQtYAzLjTOIoJMZWWLdYjV2BQkJNMoFg&s");
+  background-repeat: contain;
+  
 }
 #football{
     display: flexbox;
 }
 h1{
     padding-top:6%;
+    color: orange
 }
 #history{
     display: flex
 }
 #origin{
     display: flex
+}
+body{
+    color:white;
 }
